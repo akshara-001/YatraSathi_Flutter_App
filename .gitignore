@@ -13,6 +13,10 @@ frontend/build/
 frontend/.flutter-plugins
 frontend/.flutter-plugins-dependencies
 frontend/.env
+# Backend runtime / temp
+backend/tempCodeRunnerFile.*
+backend/uploads/
+
 
 ####################################
 # Backend (common)
