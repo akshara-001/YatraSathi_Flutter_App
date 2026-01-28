@@ -1,0 +1,29 @@
+####################################
+# IDE / Editor
+####################################
+.idea/
+.vscode/
+*.iml
+
+####################################
+# Flutter (frontend)
+####################################
+frontend/.dart_tool/
+frontend/build/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+frontend/.env
+
+####################################
+# Backend (common)
+####################################
+backend/node_modules/
+backend/.env
+backend/dist/
+backend/build/
+
+####################################
+# OS files
+####################################
+.DS_Store
+Thumbs.db
