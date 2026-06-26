@@ -58,7 +58,7 @@ Plan your journey with destination information and travel guidance.
 
 ---
 
-## 🏛️ History Screen
+## 🏛️ History Screen & Nearby Places 
 
 Learn about the historical significance of each Chaar Dham destination.
 
@@ -68,7 +68,7 @@ Learn about the historical significance of each Chaar Dham destination.
 
 ---
 
-## 📍 Hotels & Nearby Places
+## 📍 Hotels & Restaurants
 
 Discover nearby hotels, restaurants, and tourist attractions.
 
